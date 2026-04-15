@@ -1,0 +1,3 @@
+# Brazil Weather Histogram
+# bins=1 min=-25.00 max=31.50 binwidth=56.50
+-25.0000 31.5000 18752
